@@ -1,0 +1,17 @@
+
+{
+  "quote": "SAVE YOURSELF FROM CYBER ATTACK",
+  "cyberAttacks": [
+    { "name": "Phishing", "color": "red" },
+    { "name": "DDoS", "color": "yellow" },
+    { "name": "Malware", "color": "orange" }
+  ],
+  "targetedNations": [
+    { "name": "Ethiopia", "flag": "/ethiopia.png" },
+    { "name": "Mongolia", "flag": "/mongolia.png" }
+  ],
+  "targetedIndustries": [
+    { "name": "Education", "flag": "/education.png" },
+    { "name": "Government", "flag": "/govt.png" }
+  ]
+}
